@@ -1,5 +1,4 @@
-# website
-Personal website
+
 <h1 align="center">Hi there, I'm Lukáš Paška 👋</h1>
 
 <p align="center">
